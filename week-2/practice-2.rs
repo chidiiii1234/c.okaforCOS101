@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+fn main() {
+	
+	println!(); // prints just a
+
+	println!("hello ");//prints
+
+	println!("format {} arguments","some"); //prints format some arguments
+
+	println!("My name is {}. I am the class rep of stream 1", "Dagogo Williams-Jumbo")
+=======
+fn main() {
+	
+	println!(); // prints just a
+
+	println!("hello ");//prints
+
+	println!("format {} arguments","some"); //prints format some arguments
+
+	println!("My name is {}. I am the class rep of stream 1", "Dagogo Williams-Jumbo")
+>>>>>>> f5bafec1eb5189edf661fde997e91eb7446b4d32
+}
