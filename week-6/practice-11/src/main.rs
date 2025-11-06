@@ -16,8 +16,8 @@ fn main() {
     result = !b;
     println!("(!b) => {} ",result);
 
-    result = a >> b;
-    println!("(a >> b) => {} ",result);
+    result = a << b;
+    println!("(a << b) => {} ",result);
 
     result = a >> b;
     println!("(a >> b) => {} ",result);
