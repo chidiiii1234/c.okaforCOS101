@@ -1,0 +1,1 @@
+C:\Users\DELL\Documents\CSC101\c.okaforCOS101\week-11\practice-4\practice-5\practice-6\practice-7\target\debug\practice-7.exe: C:\Users\DELL\Documents\CSC101\c.okaforCOS101\week-11\practice-4\practice-5\practice-6\practice-7\src\main.rs
